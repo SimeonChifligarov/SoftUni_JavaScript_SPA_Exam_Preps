@@ -1,4 +1,4 @@
-# SoftUni_JavaScript_SPA_Exam
+# SoftUni_JavaScript_SPA_Exam_Preps
 SPA JS 
 
 let dependenciesInUse = [lit-html, page];
